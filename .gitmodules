@@ -1,0 +1,6 @@
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/AlexBond702/order-service
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/AlexBond702/catalog-service
